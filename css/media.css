@@ -1,8 +1,10 @@
 @media(max-width:1200px) {
     .Service_image>img {
-        width: 100%;
-        display: block;
-        padding: var(--pad-10);
+           width: 100%;
+    display: block;
+    padding: var(--pad-10);
+    height: auto;
+
     }
     .Navigation_Jay_Ambey_Nurshing_Home {
         display: none;
